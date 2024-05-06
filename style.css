@@ -8,11 +8,6 @@ html{
     }
 }
 
-@media screen and(width:1200px){
-    .header{
-        font-size: 5rem;
-    }
-}
 
 
 .date h6{
