@@ -1,0 +1,28 @@
+html{
+    color: #232323;
+}
+
+@media screen and(width:425px) {
+    .header{
+        text-align: center;
+    }
+}
+
+@media screen and(width:1200px){
+    .header{
+        font-size: 5rem;
+    }
+}
+
+
+.date h6{
+    color: #232323;
+    font-size: large;
+    font-weight: 200;
+}
+
+.profile{
+    background-color: #eeeeee;
+    border-radius: 2rem;
+    padding: 1rem;
+}
